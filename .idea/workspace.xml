@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe33c897-a31e-4d7d-9bc9-f6fd62a68383" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/recipes/recipe.model.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-list.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-list.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +92,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605962650566</updated>
-      <workItem from="1605962651632" duration="5997000" />
+      <workItem from="1605962651632" duration="6451000" />
+      <workItem from="1605975050664" duration="2400000" />
     </task>
     <servers />
   </component>
@@ -109,26 +110,27 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1825" height="271" key="GridCell.Tab.0.bottom" timestamp="1605968342712">
+    <state width="1825" height="271" key="GridCell.Tab.0.bottom" timestamp="1605969441709">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1825" height="271" key="GridCell.Tab.0.bottom/0.1080.1920.1080/72.0.1848.1080@0.1080.1920.1080" timestamp="1605968342712" />
-    <state width="1825" height="271" key="GridCell.Tab.0.center" timestamp="1605968342712">
+    <state width="1825" height="271" key="GridCell.Tab.0.bottom/0.1080.1920.1080/72.0.1848.1080@0.1080.1920.1080" timestamp="1605969441709" />
+    <state width="1825" height="271" key="GridCell.Tab.0.center" timestamp="1605969441709">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1825" height="271" key="GridCell.Tab.0.center/0.1080.1920.1080/72.0.1848.1080@0.1080.1920.1080" timestamp="1605968342712" />
-    <state width="1825" height="271" key="GridCell.Tab.0.left" timestamp="1605968342712">
+    <state width="1825" height="271" key="GridCell.Tab.0.center/0.1080.1920.1080/72.0.1848.1080@0.1080.1920.1080" timestamp="1605969441709" />
+    <state width="1825" height="271" key="GridCell.Tab.0.left" timestamp="1605969441709">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1825" height="271" key="GridCell.Tab.0.left/0.1080.1920.1080/72.0.1848.1080@0.1080.1920.1080" timestamp="1605968342712" />
-    <state width="1825" height="271" key="GridCell.Tab.0.right" timestamp="1605968342712">
+    <state width="1825" height="271" key="GridCell.Tab.0.left/0.1080.1920.1080/72.0.1848.1080@0.1080.1920.1080" timestamp="1605969441709" />
+    <state width="1825" height="271" key="GridCell.Tab.0.right" timestamp="1605969441709">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1825" height="271" key="GridCell.Tab.0.right/0.1080.1920.1080/72.0.1848.1080@0.1080.1920.1080" timestamp="1605968342712" />
+    <state width="1825" height="271" key="GridCell.Tab.0.right/0.1080.1920.1080/72.0.1848.1080@0.1080.1920.1080" timestamp="1605969441709" />
   </component>
 </project>
