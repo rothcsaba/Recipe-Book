@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe33c897-a31e-4d7d-9bc9-f6fd62a68383" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/shared/ingredient.model.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shopping-list/shopping-list-edit/shopping-list-edit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shopping-list/shopping-list-edit/shopping-list-edit.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/shopping-list/shopping-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shopping-list/shopping-list.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/shopping-list/shopping-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shopping-list/shopping-list.component.ts" afterDir="false" />
     </list>
@@ -95,7 +95,7 @@
       <updated>1605962650566</updated>
       <workItem from="1605962651632" duration="6451000" />
       <workItem from="1605975050664" duration="2573000" />
-      <workItem from="1606049654042" duration="5465000" />
+      <workItem from="1606049654042" duration="7232000" />
     </task>
     <servers />
   </component>
